@@ -15,7 +15,8 @@
 - Currently working on small projects to help deepening my knowledge
 
 
-##### Tech Stack
+### Tech Stack
+<p>
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white" />
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=flat-square&logo=visual-studio-code&logoColor=white"/>
 <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?&style=flat-square&&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
@@ -25,8 +26,9 @@
 <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
+</p>
 
-##### Stats
+### Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=chaosweeper&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/>
 </p>
