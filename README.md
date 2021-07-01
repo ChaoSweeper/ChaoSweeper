@@ -1,9 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hi, I'm James Cowell 💻 </h1>
 
-<!--
-**ChaoSweeper/ChaoSweeper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  Data Science | ML Enthusiast | All round Nerd! </h3> <br>
 
-Here are some ideas to get you started:
+<p align="center"> 
+<a href="https://www.linkedin.com/in/jmcowell/"><img alt="LinkedIn" src="https://img.shields.io/badge/-James_Cowell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmcowell/"></a>
+<a href="https://twitter.com/ChaoSweeper"><img alt="Twitter" src="https://img.shields.io/badge/-ChaoSweeper-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ChaoSweeper"></a>
+<a href="mailto:mcowell@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-mcowell@outlook.com?style=flat-square&logo=outlook"></a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
