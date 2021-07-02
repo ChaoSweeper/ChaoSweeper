@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 About Me
 - Recent graduate of The University of North Carolina at Charlotte
 - Bachelors in Computer Science with a concentration in Data Science
-- Areas of interest include ML/DL, Computer Vision, automated flight technically
+- Areas of interest include ML/DL, Computer Vision, automated flight technology
 - Avid reader that will read 2-3 books a week if left unattended
 - Currently working on small projects to help deepening my knowledge
 
