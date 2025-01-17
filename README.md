@@ -2,7 +2,6 @@
 <h3 align="center">  Data Scientist | ML Enthusiast | All around Nerd! </h3> <br>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/jmcowell/"><img alt="LinkedIn" src="https://img.shields.io/badge/-James_Cowell-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jmcowell/"></a>
-<a href="https://twitter.com/ChaoSweeper"><img alt="Twitter" src="https://img.shields.io/badge/-ChaoSweeper-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ChaoSweeper"></a>
 <a href="mailto:mcowell@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/James Cowell-0078D4?style=for-the-badge&logo=microsoft-outlook&style=flat-square&logoColor=white" /></a>
 </p>
 
